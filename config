@@ -1,0 +1,26 @@
+{
+   "sourceTemplateName":"test - hello world",
+   "templateRepoId":"app-template-2",
+   "templateConfig":{
+      "name":"test - hello world ",
+      "autoValidate":true,
+      "terraform":{
+         "refreshMode":"manual",
+         "backendType":"internal",
+         "timeoutMode":"one-hour",
+         "configType":"spec"
+      },
+      "type":"terraform",
+      "config":{
+         "specs":[
+            {
+               "id":155,
+               "value":155,
+               "name":"test"
+            }
+         ]
+      },
+      "image":"/assets/apps/blueprint-terraform.png"
+   },
+   "config":"{\"image\":\"/assets/branding/90x30/blueprint-terraform-bd2db256993d5bf66a82de44e10d7e8d.svg\",\"needsReset\":true,\"name\":\"change me\",\"autoValidate\":true,\"terraform\":{\"refreshMode\":\"manual\",\"backendType\":\"internal\",\"timeoutMode\":\"one-hour\",\"configType\":\"spec\"},\"id\":2,\"type\":\"terraform\",\"group\":{\"code\":\"\",\"id\":3}}"
+}
