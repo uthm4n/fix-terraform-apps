@@ -22,5 +22,5 @@
       },
       "image":"/assets/apps/blueprint-terraform.png"
    },
-   "config":"{\"image\":\"/assets/branding/90x30/blueprint-terraform-bd2db256993d5bf66a82de44e10d7e8d.svg\",\"needsReset\":true,\"name\":\"change me\",\"autoValidate\":true,\"terraform\":{\"refreshMode\":\"manual\",\"backendType\":\"internal\",\"timeoutMode\":\"one-hour\",\"configType\":\"spec\"},\"id\":2,\"type\":\"terraform\",\"group\":{\"code\":\"\",\"id\":3}}"
+   "config":"{\"image\":\"/assets/branding/90x30/blueprint-terraform-bd2db256993d5bf66a82de44e10d7e8d.svg\",\"needsReset\":true,\"name\":\"change me\",\"autoValidate\":true,\"terraform\":{\"refreshMode\":\"manual\",\"backendType\":\"internal\",\"timeoutMode\":\"one-hour\",\"configType\":\"spec\"},\"id\":2,\"type\":\"terraform\",\"group\":{\"code\":\"\",\"id\":3},\"defaultCloud\":{\"id\":1}"
 }
